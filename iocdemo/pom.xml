@@ -8,10 +8,6 @@
 	<name>ioc demo</name>
 	<description>using spring 4</description>
 
-	<!-- https://github.com/darbyluv2code/spring-and-hibernate-for-beginners/tree/master -->
-	<!-- https://dzone.com/articles/spring-mvc-example-for-user-registration-and-login-1 -->
-	<!-- https://www.codejava.net/frameworks/spring/creating-a-spring-mvc-project-using-maven-and-eclipse-in-one-minute -->
-
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
